@@ -9,3 +9,4 @@
 .npmignore
 /.vscode/*
 /env
+yarn-error.log

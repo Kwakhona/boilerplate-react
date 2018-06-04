@@ -3,11 +3,12 @@
   "version": "0.0.1",
   "main": "index.js",
   "description": "React App for Expenses",
-  "scripts": {
-    
-  },
   "author": "kr.mahamba@live.com",
   "license": "ISC",
+  "scripts": {
+    "build":"webpack",
+    "dev-server": "webpack-dev-server"   
+  },
   "dependencies": {
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.4",

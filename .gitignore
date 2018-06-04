@@ -1,0 +1,11 @@
+/node_modules
+/.tmp
+/.sass-cache
+.idea/
+.bowerrc
+/coverage
+/reports
+.DS_Store
+.npmignore
+/.vscode/*
+/env
